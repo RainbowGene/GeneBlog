@@ -10,5 +10,11 @@
   "license": "ISC",
   "devDependencies": {
     "express": "^4.17.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "inflection": "^1.12.0",
+    "mongoose": "^5.9.26",
+    "require-all": "^3.0.0"
   }
 }
